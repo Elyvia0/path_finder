@@ -1,0 +1,10 @@
+{
+  "skill": "ai_ml",
+  "description": "Taxonomy and concepts for ai_ml",
+  "levels": [
+    "beginner",
+    "intermediate",
+    "advanced"
+  ],
+  "concepts": []
+}

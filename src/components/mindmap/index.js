@@ -1,0 +1,2 @@
+// mindmap component exports
+export {};

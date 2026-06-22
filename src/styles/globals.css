@@ -1,0 +1,22 @@
+/* Global styles */
+@import './variables.css';
+@import './typography.css';
+@import './animations.css';
+@import './themes.css';
+
+:root {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-primary);
+  background-color: var(--bg-primary);
+}
+
+.app-layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

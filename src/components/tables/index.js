@@ -1,0 +1,2 @@
+// tables component exports
+export {};

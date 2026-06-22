@@ -1,0 +1,20 @@
+/* HSL Curated theme colors for high-end glassmorphism aesthetic */
+:root[data-theme='dark'] {
+  --bg-primary: #0b0f19;
+  --bg-secondary: rgba(17, 24, 39, 0.7);
+  --text-primary: #f3f4f6;
+  --text-secondary: #9ca3af;
+  --accent: #6366f1;
+  --accent-glow: rgba(99, 102, 241, 0.15);
+  --border-color: rgba(255, 255, 255, 0.08);
+}
+
+:root[data-theme='light'] {
+  --bg-primary: #f9fafb;
+  --bg-secondary: rgba(255, 255, 255, 0.7);
+  --text-primary: #111827;
+  --text-secondary: #4b5563;
+  --accent: #4f46e5;
+  --accent-glow: rgba(79, 70, 229, 0.1);
+  --border-color: rgba(0, 0, 0, 0.08);
+}

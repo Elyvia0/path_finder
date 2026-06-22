@@ -1,0 +1,10 @@
+{
+  "skill": "java",
+  "description": "Taxonomy and concepts for java",
+  "levels": [
+    "beginner",
+    "intermediate",
+    "advanced"
+  ],
+  "concepts": []
+}

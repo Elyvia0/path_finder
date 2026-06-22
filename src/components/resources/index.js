@@ -1,0 +1,2 @@
+// resources component exports
+export {};
